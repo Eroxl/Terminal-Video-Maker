@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.ap-play-button {
+  display: none !important;
+}
+
+span {
+  white-space: pre !important;
+}
